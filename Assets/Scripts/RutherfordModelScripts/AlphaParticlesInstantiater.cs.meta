@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 564d0c6103a2f054288c32565ba0e57b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ByPassed: {fileID: 8011043682020428224, guid: f8d2c3532e4fe864c94a2e11b8b9abbd,
+      type: 3}
+  - Deflected: {fileID: 8011043682020428224, guid: f8d2c3532e4fe864c94a2e11b8b9abbd,
+      type: 3}
+  - Rebounded: {fileID: 8011043682020428224, guid: f8d2c3532e4fe864c94a2e11b8b9abbd,
+      type: 3}
+  - goldFoil: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
